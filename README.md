@@ -1,2 +1,8 @@
 # GRMC---Diabetic-Patient-Readmission
 Diabetic Patient Readmission EDA &amp; ML Modeling with different supervised learning algorythms.
+
+1. Identified Patient Cohorts: I analyzed the collected patient data, including ailment details, medicine intake, and physician information. This helped in identifying interesting cohorts within patient groups that may have a higher probability of readmission. This is crucial as it allows for targeted interventions and personalized care plans.
+2. Developed a Readmissions Model: I created a machine learning model to predict which diabetic patients are most likely to be readmitted. This is important as it enables proactive measures to be taken to prevent readmissions, improving patient quality of life and reducing strain on medical staff.
+3. Addressed Financial Implications: I considered the financial implications of readmissions, which can range from $10,900 to $15,200 per patient and cost the US healthcare system $52.4B per year. By reducing readmissions, we can potentially save significant costs for both the hospital and the patients.
+4. Ranked Patients Based on Readmission Risk: After building and evaluating the model, I identified the top 100 patients from the test set most likely to return. This allows hospital administrators to examine the results and work with staff to improve treatment outcomes for these patients, serving as a pilot for broader interventions.
+Considered Pre-COVID Data: All the information used for this project pre-dates the impact of COVID hospitalization. This is important to note as the pandemic may have introduced new factors affecting patient readmissions.
